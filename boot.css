@@ -1,0 +1,52 @@
+.bg{
+    background-image: url('bg1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    
+}
+.navbar-brand{
+    font-size: 35px;
+    font-family: 'Lato';
+    color: white;
+    
+}
+#p1{
+    color: white;
+    position: absolute;
+    font-size: 58px;
+    left:420px;
+    top:100px;
+    font-family: 'Kite One';
+    border-right: 5px ;
+    width:100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 10s steps(14);
+    animation-iteration-count:100;
+}
+@keyframes typing {
+    from {width: 0}
+}
+#p2{
+    color: white;
+    position:absolute;
+    font-size: 88px;
+    left: 420px;
+    top:210px;
+    font-family: 'Lato';
+}
+#p3{
+    color: white;
+    position: absolute;
+    font-size: 40px;
+    right:400px;
+    top:120px;
+    font-family: 'Lato';
+}
+#doc{
+    height: 75px;
+    position:absolute;
+    right:300px;
+    top:100px;
+}

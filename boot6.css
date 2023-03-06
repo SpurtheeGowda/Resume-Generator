@@ -1,0 +1,124 @@
+.bg{
+  background-image: url('output-onlinepngtools\ \(4\).png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  
+}
+.navbar-brand{
+  font-size: 35px;
+  font-family: 'Lato';
+  color: white;
+  
+}
+#p1{
+  color: white;
+  position: absolute;
+  font-size: 128px;
+  left:100px;
+  top:140px;
+  font-family: 'Kite One';
+  border-right: 5px ;
+  width:100%;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 10s steps(14);
+  animation-iteration-count:100;
+}
+@keyframes typing {
+  from {width: 0}
+}
+#p2{
+  color: black;
+  position:absolute;
+  font-size: 48px;
+  left: 100px;
+  top:330px;
+  font-family: 'Lato';
+}
+#p3{
+  color: white;
+  position:absolute;
+  font-size: 48px;
+  left: 100px;
+  top:480px;
+  font-family: 'Lato';
+}
+#doc{
+  height: 75px;
+  position:absolute;
+  right:300px;
+  top:100px;
+}
+#re{
+  position: absolute;
+  right:100px;
+}
+.topnav{
+  font-family: 'Lato';
+  font-size: 24px;
+  position:absolute;
+  top:25px;
+  right:60px;
+}
+a{
+  color: white;
+  padding-left: 50px;
+}
+.text-center{
+  color: black;
+  font-family: 'Lato';
+  position: absolute;
+  right:680px;
+}
+.row{
+  color: black;
+  font-family: 'Lato';
+ 
+}
+
+.myimg{
+  border-radius: 50%;
+  width:200px;
+}
+.background{
+  background-color:#7369d9ad;
+}
+.text{
+  margin-left: 370px;
+}
+.card{
+   position:absolute;
+   left:380px;
+}
+#p{
+   position:relative;
+   top:10px;
+   left: 370px;
+}
+#pr{
+   position:relative;
+   top:20px;
+   left: 370px;
+}
+#pr1{
+   position:relative;
+   top:20px;
+   left: 370px;
+}
+#pr2{
+   position:relative;
+   top:20px;
+   left: 370px;
+}
+#pr3{
+   position:relative;
+   top:20px;
+   left: 370px;
+}
+.b{
+   margin-left: 900px;
+}
+#cv-template{
+  display: none;
+}
